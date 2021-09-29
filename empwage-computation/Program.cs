@@ -10,7 +10,7 @@ namespace empwage_computation
             
             LengthOfLines length = new LengthOfLines(4, 6, 8, 10);
             Console.WriteLine(length);
-            length.PrintSomething();
+            length.Print("Testing");
         }
     }
 }

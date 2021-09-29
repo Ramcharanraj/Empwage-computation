@@ -22,9 +22,12 @@ namespace empwage_computation
 
         }
 
-        public void PrintSomething()
+        /// <summary>
+        /// This method is used to print 
+        /// </summary>
+        public void Print(dynamic input)
         {
-            Console.WriteLine("Just testing");
+            Console.WriteLine(input);
         }
     }
 }
