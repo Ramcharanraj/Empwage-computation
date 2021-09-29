@@ -21,5 +21,10 @@ namespace empwage_computation
             return lengthofline;
 
         }
+
+        public void PrintSomething()
+        {
+            Console.WriteLine("Just testing");
+        }
     }
 }
