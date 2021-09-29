@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "empwage-computation", "empwage-computation\empwage-computation.csproj", "{FCF08366-AA9C-43F9-ADF5-FEEADCE91AB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCF08366-AA9C-43F9-ADF5-FEEADCE91AB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCF08366-AA9C-43F9-ADF5-FEEADCE91AB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCF08366-AA9C-43F9-ADF5-FEEADCE91AB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCF08366-AA9C-43F9-ADF5-FEEADCE91AB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CBD2417-2AC6-4A9F-BA78-27E8C020B063}
+	EndGlobalSection
+EndGlobal
